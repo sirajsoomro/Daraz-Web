@@ -1,0 +1,11 @@
+span{
+    border: 1px solid orange;
+}
+.boxes{
+    border: 1px solid rgb(235, 226, 226);
+}
+nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
